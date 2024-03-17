@@ -52,7 +52,7 @@ The Smart Irrigation Predictor is a system designed to optimize water usage and 
 
 ## Acknowledgements
 
-- Special thanks to [Aishee Guha Biswas](https://github.com/aishee06) for their contributions.
+- Joint project by [Aishee Guha Biswas](https://github.com/aishee06) and me.
 
 ---
 
