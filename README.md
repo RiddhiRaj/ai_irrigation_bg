@@ -1,4 +1,4 @@
-# Smart Irrigation Predictor
+# AI Irrigation System
 
 ![Project Image](ss1.png)
 ![Project Image](ss3.png)
