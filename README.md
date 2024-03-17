@@ -1,7 +1,6 @@
 # Smart Irrigation Predictor
 
 ![Project Image](ss1.png)
-![Project Image](ss2.png)
 ![Project Image](ss3.png)
 
 ## Overview
