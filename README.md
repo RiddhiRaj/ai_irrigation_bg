@@ -10,7 +10,6 @@ The Smart Irrigation Predictor is a system designed to optimize water usage and 
 ## Key Features
 
 - Predicts irrigation requirement based on environmental data.
-- Real-time analysis of temperature and rainfall patterns.
 - Enhances water usage efficiency and resource management.
 - Suitable for agricultural settings, particularly tea estates.
 
