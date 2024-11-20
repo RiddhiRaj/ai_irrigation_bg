@@ -18,12 +18,12 @@ The Smart Irrigation Predictor is a system designed to optimize water usage and 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/RiddhiRaj/ai-irrigation-bg.git
+   git clone https://github.com/RiddhiRaj/ai_irrigation_bg.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd ai-irrigation-bg
+   cd ai_irrigation_bg
    ```
 
 3. Install dependencies:
